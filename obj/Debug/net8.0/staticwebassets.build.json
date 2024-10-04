@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UX9ArygBlCrOmD256PoELtyxFQ/16X1ZrZh4dmODX1k=",
+  "Source": "SendEmailWebApi",
+  "BasePath": "_content/SendEmailWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

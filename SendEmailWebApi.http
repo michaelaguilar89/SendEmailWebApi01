@@ -1,0 +1,6 @@
+@SendEmailWebApi_HostAddress = http://localhost:5210
+
+GET {{SendEmailWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
